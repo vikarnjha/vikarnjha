@@ -11,29 +11,27 @@
   />
 </p>
 
-- 🌱 I’m currently learning **Full Stack Web Development** - 👨‍💻 All of my
-projects are available at
-[https://github.com/vikarnjha](https://github.com/vikarnjha) - 💬 Ask me about
-**HTML || CSS || JavaScript || Tailwind CSS || React || Node Js || Express Js ||
-MySQL || MongoDB || GitHub || C || C++** - 📫 How to reach me
-**vikarnjha91@gmail.com** - 📄 Know about my experiences
-[https://docs.google.com/document/d/1PcAAwqcbFwKbJbxzBuaPbQHeXHuMFCG0em_RVTSbU-k/edit?usp=sharing](https://docs.google.com/document/d/1PcAAwqcbFwKbJbxzBuaPbQHeXHuMFCG0em_RVTSbU-k/edit?usp=sharing)
+- 🌱 I’m currently learning **Full Stack Web Development**
+- 👨‍💻 All of my projects are available at [https://github.com/vikarnjha](https://github.com/vikarnjha)
+- 💬 Ask me about **HTML || CSS || JavaScript || Tailwind CSS || React || Node Js || Express Js || MySQL || MongoDB || GitHub || C || C++**
+- 📫 How to reach me **vikarnjha91@gmail.com**
+- 📄 Know about my experiences [https://docs.google.com/document/d/1PcAAwqcbFwKbJbxzBuaPbQHeXHuMFCG0em_RVTSbU-k/edit?usp=sharing](https://docs.google.com/document/d/1PcAAwqcbFwKbJbxzBuaPbQHeXHuMFCG0em_RVTSbU-k/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://twitter.com/vikarnj" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="vikarnj"
-      height="30"
-      width="40"
-  /></a>
   <a href="https://linkedin.com/in/vikarn-jha" target="blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="vikarn-jha"
+      height="30"
+      width="40"
+  /></a>
+  <a href="https://instagram.com/vikarnjha" target="blank"
+    ><img
+      align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+      alt="vikarnjha"
       height="30"
       width="40"
   /></a>
@@ -45,11 +43,11 @@ MySQL || MongoDB || GitHub || C || C++** - 📫 How to reach me
       height="30"
       width="40"
   /></a>
-  <a href="https://instagram.com/vikarnjha" target="blank"
+  <a href="https://twitter.com/vikarnj" target="blank"
     ><img
       align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="vikarnjha"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+      alt="vikarnj"
       height="30"
       width="40"
   /></a>
