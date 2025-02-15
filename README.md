@@ -11,11 +11,10 @@
   />
 </p>
 
-- 🌱 I’m currently learning **Full Stack Web Development**
 - 👨‍💻 All of my projects are available at [https://github.com/vikarnjha](https://github.com/vikarnjha)
-- 💬 Ask me about **HTML || CSS || JavaScript || Tailwind CSS || React || Node Js || Express Js || MySQL || MongoDB || GitHub || C || C++**
+- 💬 Ask me about **HTML || CSS || JavaScript || Tailwind CSS || React || Node Js || Express Js || MySQL || MongoDB || GitHub || Java || C || C++**
 - 📫 How to reach me **vikarnjha91@gmail.com**
-- 📄 Know about my experiences [https://docs.google.com/document/d/1PcAAwqcbFwKbJbxzBuaPbQHeXHuMFCG0em_RVTSbU-k/edit?usp=sharing](https://docs.google.com/document/d/1PcAAwqcbFwKbJbxzBuaPbQHeXHuMFCG0em_RVTSbU-k/edit?usp=sharing)
+- 📄 Know about my experiences [Linkedin]([https://docs.google.com/document/d/1PcAAwqcbFwKbJbxzBuaPbQHeXHuMFCG0em_RVTSbU-k/edit?usp=sharing](https://linkedin.com/in/vikarn-jha))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
